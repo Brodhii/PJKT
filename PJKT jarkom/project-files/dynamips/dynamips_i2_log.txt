@@ -1,0 +1,10 @@
+Jun 24 09:21:02.217 HYPERVISOR: Release 0.2.23-amd64/Linux (tag 2023010200)
+Jun 24 09:21:02.217 HYPERVISOR: Started on IP = 127.0.0.1, TCP port = 57071.
+Jun 24 09:21:02.224 HYPERVISOR: exec_cmd: hypervisor version 
+Jun 24 09:21:02.225 HYPERVISOR: exec_cmd: hypervisor working_dir /home/admn/GNS3/projects/PJKT jarkom/project-files/dynamips 
+Jun 24 09:21:02.225 GENERAL: working_dir=/home/admn/GNS3/projects/PJKT jarkom/project-files/dynamips
+Jun 24 09:21:02.225 HYPERVISOR: exec_cmd: ethsw create Switch3 
+Jun 24 09:21:08.043 HYPERVISOR: exec_cmd: ethsw delete Switch3 
+Jun 24 09:21:08.043 HYPERVISOR: exec_cmd: hypervisor stop 
+Jun 24 09:21:08.229 HYPERVISOR: Stopped.
+Jun 24 09:21:08.229 GENERAL: reset done.
